@@ -27,7 +27,6 @@ public class ProductServiceTest {
 
     @Before
     public void setup() {
-
     }
     @Test
     public void testAllProducts() {
